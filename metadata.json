@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Bot Deployer",
+  "description": "An advanced, self-hosting Telegram Bot manager and deployment dashboard that allows you to easily host, manage, and monitor custom Python and Node.js bots from a responsive web panel or directly within Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
